@@ -1,4 +1,4 @@
-# algorithm-study[README.md](https://github.com/user-attachments/files/30922580/README.md)
+
 # Binary Search (이진 탐색)
 
 ## 개념
