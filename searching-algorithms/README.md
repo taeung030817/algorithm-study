@@ -1,5 +1,5 @@
 
-# Binary Search (이진 탐색)
+# 1. Binary Search (이진 탐색)
 
 ## 개념
 
