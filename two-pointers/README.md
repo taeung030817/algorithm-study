@@ -1,4 +1,4 @@
-# Two Pointers (투 포인터)
+#3. Two Pointers (투 포인터)
 
 ## 개념
 
