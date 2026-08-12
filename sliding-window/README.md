@@ -1,4 +1,4 @@
-# Sliding Window (슬라이딩 윈도우)
+#3. Sliding Window (슬라이딩 윈도우)
 
 ## 개념
 
