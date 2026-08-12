@@ -1,4 +1,4 @@
-# Sorting Algorithms (정렬 알고리즘)
+#2. Sorting Algorithms (정렬 알고리즘)
 
 ## 왜 배우는가
 
